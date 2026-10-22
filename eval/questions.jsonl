@@ -1,0 +1,100 @@
+{"id": "AAPL-0", "question": "What are the main risk factors Apple discloses in its latest 10-K?", "ticker": "AAPL", "doc_type": "10-K", "section": "Item 1A", "reference": null}
+{"id": "AAPL-1", "question": "What does Apple say its business and main products or segments are?", "ticker": "AAPL", "doc_type": "10-K", "section": "Item 1", "reference": null}
+{"id": "AAPL-2", "question": "What does Apple's MD&A say drove changes in revenue and operating results?", "ticker": "AAPL", "doc_type": "10-K", "section": "Item 7", "reference": null}
+{"id": "AAPL-3", "question": "What legal proceedings does Apple describe in its latest 10-K?", "ticker": "AAPL", "doc_type": "10-K", "section": "Item 3", "reference": null}
+{"id": "MSFT-0", "question": "What are the main risk factors Microsoft discloses in its latest 10-K?", "ticker": "MSFT", "doc_type": "10-K", "section": "Item 1A", "reference": null}
+{"id": "MSFT-1", "question": "What does Microsoft say its business and main products or segments are?", "ticker": "MSFT", "doc_type": "10-K", "section": "Item 1", "reference": null}
+{"id": "MSFT-2", "question": "What does Microsoft's MD&A say drove changes in revenue and operating results?", "ticker": "MSFT", "doc_type": "10-K", "section": "Item 7", "reference": null}
+{"id": "MSFT-3", "question": "What legal proceedings does Microsoft describe in its latest 10-K?", "ticker": "MSFT", "doc_type": "10-K", "section": "Item 3", "reference": null}
+{"id": "GOOGL-0", "question": "What are the main risk factors Alphabet discloses in its latest 10-K?", "ticker": "GOOGL", "doc_type": "10-K", "section": "Item 1A", "reference": null}
+{"id": "GOOGL-1", "question": "What does Alphabet say its business and main products or segments are?", "ticker": "GOOGL", "doc_type": "10-K", "section": "Item 1", "reference": null}
+{"id": "GOOGL-2", "question": "What does Alphabet's MD&A say drove changes in revenue and operating results?", "ticker": "GOOGL", "doc_type": "10-K", "section": "Item 7", "reference": null}
+{"id": "GOOGL-3", "question": "What legal proceedings does Alphabet describe in its latest 10-K?", "ticker": "GOOGL", "doc_type": "10-K", "section": "Item 3", "reference": null}
+{"id": "AMZN-0", "question": "What are the main risk factors Amazon discloses in its latest 10-K?", "ticker": "AMZN", "doc_type": "10-K", "section": "Item 1A", "reference": null}
+{"id": "AMZN-1", "question": "What does Amazon say its business and main products or segments are?", "ticker": "AMZN", "doc_type": "10-K", "section": "Item 1", "reference": null}
+{"id": "AMZN-2", "question": "What does Amazon's MD&A say drove changes in revenue and operating results?", "ticker": "AMZN", "doc_type": "10-K", "section": "Item 7", "reference": null}
+{"id": "AMZN-3", "question": "What legal proceedings does Amazon describe in its latest 10-K?", "ticker": "AMZN", "doc_type": "10-K", "section": "Item 3", "reference": null}
+{"id": "META-0", "question": "What are the main risk factors Meta Platforms discloses in its latest 10-K?", "ticker": "META", "doc_type": "10-K", "section": "Item 1A", "reference": null}
+{"id": "META-1", "question": "What does Meta Platforms say its business and main products or segments are?", "ticker": "META", "doc_type": "10-K", "section": "Item 1", "reference": null}
+{"id": "META-2", "question": "What does Meta Platforms's MD&A say drove changes in revenue and operating results?", "ticker": "META", "doc_type": "10-K", "section": "Item 7", "reference": null}
+{"id": "META-3", "question": "What legal proceedings does Meta Platforms describe in its latest 10-K?", "ticker": "META", "doc_type": "10-K", "section": "Item 3", "reference": null}
+{"id": "NVDA-0", "question": "What are the main risk factors NVIDIA discloses in its latest 10-K?", "ticker": "NVDA", "doc_type": "10-K", "section": "Item 1A", "reference": null}
+{"id": "NVDA-1", "question": "What does NVIDIA say its business and main products or segments are?", "ticker": "NVDA", "doc_type": "10-K", "section": "Item 1", "reference": null}
+{"id": "NVDA-2", "question": "What does NVIDIA's MD&A say drove changes in revenue and operating results?", "ticker": "NVDA", "doc_type": "10-K", "section": "Item 7", "reference": null}
+{"id": "NVDA-3", "question": "What legal proceedings does NVIDIA describe in its latest 10-K?", "ticker": "NVDA", "doc_type": "10-K", "section": "Item 3", "reference": null}
+{"id": "TSLA-0", "question": "What are the main risk factors Tesla discloses in its latest 10-K?", "ticker": "TSLA", "doc_type": "10-K", "section": "Item 1A", "reference": null}
+{"id": "TSLA-1", "question": "What does Tesla say its business and main products or segments are?", "ticker": "TSLA", "doc_type": "10-K", "section": "Item 1", "reference": null}
+{"id": "TSLA-2", "question": "What does Tesla's MD&A say drove changes in revenue and operating results?", "ticker": "TSLA", "doc_type": "10-K", "section": "Item 7", "reference": null}
+{"id": "TSLA-3", "question": "What legal proceedings does Tesla describe in its latest 10-K?", "ticker": "TSLA", "doc_type": "10-K", "section": "Item 3", "reference": null}
+{"id": "JPM-0", "question": "What are the main risk factors JPMorgan Chase discloses in its latest 10-K?", "ticker": "JPM", "doc_type": "10-K", "section": "Item 1A", "reference": null}
+{"id": "JPM-1", "question": "What does JPMorgan Chase say its business and main products or segments are?", "ticker": "JPM", "doc_type": "10-K", "section": "Item 1", "reference": null}
+{"id": "JPM-2", "question": "What does JPMorgan Chase's MD&A say drove changes in revenue and operating results?", "ticker": "JPM", "doc_type": "10-K", "section": "Item 7", "reference": null}
+{"id": "JPM-3", "question": "What legal proceedings does JPMorgan Chase describe in its latest 10-K?", "ticker": "JPM", "doc_type": "10-K", "section": "Item 3", "reference": null}
+{"id": "BAC-0", "question": "What are the main risk factors Bank of America discloses in its latest 10-K?", "ticker": "BAC", "doc_type": "10-K", "section": "Item 1A", "reference": null}
+{"id": "BAC-1", "question": "What does Bank of America say its business and main products or segments are?", "ticker": "BAC", "doc_type": "10-K", "section": "Item 1", "reference": null}
+{"id": "BAC-2", "question": "What does Bank of America's MD&A say drove changes in revenue and operating results?", "ticker": "BAC", "doc_type": "10-K", "section": "Item 7", "reference": null}
+{"id": "BAC-3", "question": "What legal proceedings does Bank of America describe in its latest 10-K?", "ticker": "BAC", "doc_type": "10-K", "section": "Item 3", "reference": null}
+{"id": "GS-0", "question": "What are the main risk factors Goldman Sachs discloses in its latest 10-K?", "ticker": "GS", "doc_type": "10-K", "section": "Item 1A", "reference": null}
+{"id": "GS-1", "question": "What does Goldman Sachs say its business and main products or segments are?", "ticker": "GS", "doc_type": "10-K", "section": "Item 1", "reference": null}
+{"id": "GS-2", "question": "What does Goldman Sachs's MD&A say drove changes in revenue and operating results?", "ticker": "GS", "doc_type": "10-K", "section": "Item 7", "reference": null}
+{"id": "GS-3", "question": "What legal proceedings does Goldman Sachs describe in its latest 10-K?", "ticker": "GS", "doc_type": "10-K", "section": "Item 3", "reference": null}
+{"id": "V-0", "question": "What are the main risk factors Visa discloses in its latest 10-K?", "ticker": "V", "doc_type": "10-K", "section": "Item 1A", "reference": null}
+{"id": "V-1", "question": "What does Visa say its business and main products or segments are?", "ticker": "V", "doc_type": "10-K", "section": "Item 1", "reference": null}
+{"id": "V-2", "question": "What does Visa's MD&A say drove changes in revenue and operating results?", "ticker": "V", "doc_type": "10-K", "section": "Item 7", "reference": null}
+{"id": "V-3", "question": "What legal proceedings does Visa describe in its latest 10-K?", "ticker": "V", "doc_type": "10-K", "section": "Item 3", "reference": null}
+{"id": "JNJ-0", "question": "What are the main risk factors Johnson & Johnson discloses in its latest 10-K?", "ticker": "JNJ", "doc_type": "10-K", "section": "Item 1A", "reference": null}
+{"id": "JNJ-1", "question": "What does Johnson & Johnson say its business and main products or segments are?", "ticker": "JNJ", "doc_type": "10-K", "section": "Item 1", "reference": null}
+{"id": "JNJ-2", "question": "What does Johnson & Johnson's MD&A say drove changes in revenue and operating results?", "ticker": "JNJ", "doc_type": "10-K", "section": "Item 7", "reference": null}
+{"id": "JNJ-3", "question": "What legal proceedings does Johnson & Johnson describe in its latest 10-K?", "ticker": "JNJ", "doc_type": "10-K", "section": "Item 3", "reference": null}
+{"id": "PFE-0", "question": "What are the main risk factors Pfizer discloses in its latest 10-K?", "ticker": "PFE", "doc_type": "10-K", "section": "Item 1A", "reference": null}
+{"id": "PFE-1", "question": "What does Pfizer say its business and main products or segments are?", "ticker": "PFE", "doc_type": "10-K", "section": "Item 1", "reference": null}
+{"id": "PFE-2", "question": "What does Pfizer's MD&A say drove changes in revenue and operating results?", "ticker": "PFE", "doc_type": "10-K", "section": "Item 7", "reference": null}
+{"id": "PFE-3", "question": "What legal proceedings does Pfizer describe in its latest 10-K?", "ticker": "PFE", "doc_type": "10-K", "section": "Item 3", "reference": null}
+{"id": "UNH-0", "question": "What are the main risk factors UnitedHealth discloses in its latest 10-K?", "ticker": "UNH", "doc_type": "10-K", "section": "Item 1A", "reference": null}
+{"id": "UNH-1", "question": "What does UnitedHealth say its business and main products or segments are?", "ticker": "UNH", "doc_type": "10-K", "section": "Item 1", "reference": null}
+{"id": "UNH-2", "question": "What does UnitedHealth's MD&A say drove changes in revenue and operating results?", "ticker": "UNH", "doc_type": "10-K", "section": "Item 7", "reference": null}
+{"id": "UNH-3", "question": "What legal proceedings does UnitedHealth describe in its latest 10-K?", "ticker": "UNH", "doc_type": "10-K", "section": "Item 3", "reference": null}
+{"id": "XOM-0", "question": "What are the main risk factors Exxon Mobil discloses in its latest 10-K?", "ticker": "XOM", "doc_type": "10-K", "section": "Item 1A", "reference": null}
+{"id": "XOM-1", "question": "What does Exxon Mobil say its business and main products or segments are?", "ticker": "XOM", "doc_type": "10-K", "section": "Item 1", "reference": null}
+{"id": "XOM-2", "question": "What does Exxon Mobil's MD&A say drove changes in revenue and operating results?", "ticker": "XOM", "doc_type": "10-K", "section": "Item 7", "reference": null}
+{"id": "XOM-3", "question": "What legal proceedings does Exxon Mobil describe in its latest 10-K?", "ticker": "XOM", "doc_type": "10-K", "section": "Item 3", "reference": null}
+{"id": "CVX-0", "question": "What are the main risk factors Chevron discloses in its latest 10-K?", "ticker": "CVX", "doc_type": "10-K", "section": "Item 1A", "reference": null}
+{"id": "CVX-1", "question": "What does Chevron say its business and main products or segments are?", "ticker": "CVX", "doc_type": "10-K", "section": "Item 1", "reference": null}
+{"id": "CVX-2", "question": "What does Chevron's MD&A say drove changes in revenue and operating results?", "ticker": "CVX", "doc_type": "10-K", "section": "Item 7", "reference": null}
+{"id": "CVX-3", "question": "What legal proceedings does Chevron describe in its latest 10-K?", "ticker": "CVX", "doc_type": "10-K", "section": "Item 3", "reference": null}
+{"id": "WMT-0", "question": "What are the main risk factors Walmart discloses in its latest 10-K?", "ticker": "WMT", "doc_type": "10-K", "section": "Item 1A", "reference": null}
+{"id": "WMT-1", "question": "What does Walmart say its business and main products or segments are?", "ticker": "WMT", "doc_type": "10-K", "section": "Item 1", "reference": null}
+{"id": "WMT-2", "question": "What does Walmart's MD&A say drove changes in revenue and operating results?", "ticker": "WMT", "doc_type": "10-K", "section": "Item 7", "reference": null}
+{"id": "WMT-3", "question": "What legal proceedings does Walmart describe in its latest 10-K?", "ticker": "WMT", "doc_type": "10-K", "section": "Item 3", "reference": null}
+{"id": "COST-0", "question": "What are the main risk factors Costco discloses in its latest 10-K?", "ticker": "COST", "doc_type": "10-K", "section": "Item 1A", "reference": null}
+{"id": "COST-1", "question": "What does Costco say its business and main products or segments are?", "ticker": "COST", "doc_type": "10-K", "section": "Item 1", "reference": null}
+{"id": "COST-2", "question": "What does Costco's MD&A say drove changes in revenue and operating results?", "ticker": "COST", "doc_type": "10-K", "section": "Item 7", "reference": null}
+{"id": "COST-3", "question": "What legal proceedings does Costco describe in its latest 10-K?", "ticker": "COST", "doc_type": "10-K", "section": "Item 3", "reference": null}
+{"id": "KO-0", "question": "What are the main risk factors Coca-Cola discloses in its latest 10-K?", "ticker": "KO", "doc_type": "10-K", "section": "Item 1A", "reference": null}
+{"id": "KO-1", "question": "What does Coca-Cola say its business and main products or segments are?", "ticker": "KO", "doc_type": "10-K", "section": "Item 1", "reference": null}
+{"id": "KO-2", "question": "What does Coca-Cola's MD&A say drove changes in revenue and operating results?", "ticker": "KO", "doc_type": "10-K", "section": "Item 7", "reference": null}
+{"id": "KO-3", "question": "What legal proceedings does Coca-Cola describe in its latest 10-K?", "ticker": "KO", "doc_type": "10-K", "section": "Item 3", "reference": null}
+{"id": "PG-0", "question": "What are the main risk factors Procter & Gamble discloses in its latest 10-K?", "ticker": "PG", "doc_type": "10-K", "section": "Item 1A", "reference": null}
+{"id": "PG-1", "question": "What does Procter & Gamble say its business and main products or segments are?", "ticker": "PG", "doc_type": "10-K", "section": "Item 1", "reference": null}
+{"id": "PG-2", "question": "What does Procter & Gamble's MD&A say drove changes in revenue and operating results?", "ticker": "PG", "doc_type": "10-K", "section": "Item 7", "reference": null}
+{"id": "PG-3", "question": "What legal proceedings does Procter & Gamble describe in its latest 10-K?", "ticker": "PG", "doc_type": "10-K", "section": "Item 3", "reference": null}
+{"id": "HD-0", "question": "What are the main risk factors Home Depot discloses in its latest 10-K?", "ticker": "HD", "doc_type": "10-K", "section": "Item 1A", "reference": null}
+{"id": "HD-1", "question": "What does Home Depot say its business and main products or segments are?", "ticker": "HD", "doc_type": "10-K", "section": "Item 1", "reference": null}
+{"id": "HD-2", "question": "What does Home Depot's MD&A say drove changes in revenue and operating results?", "ticker": "HD", "doc_type": "10-K", "section": "Item 7", "reference": null}
+{"id": "HD-3", "question": "What legal proceedings does Home Depot describe in its latest 10-K?", "ticker": "HD", "doc_type": "10-K", "section": "Item 3", "reference": null}
+{"id": "DIS-0", "question": "What are the main risk factors Disney discloses in its latest 10-K?", "ticker": "DIS", "doc_type": "10-K", "section": "Item 1A", "reference": null}
+{"id": "DIS-1", "question": "What does Disney say its business and main products or segments are?", "ticker": "DIS", "doc_type": "10-K", "section": "Item 1", "reference": null}
+{"id": "DIS-2", "question": "What does Disney's MD&A say drove changes in revenue and operating results?", "ticker": "DIS", "doc_type": "10-K", "section": "Item 7", "reference": null}
+{"id": "DIS-3", "question": "What legal proceedings does Disney describe in its latest 10-K?", "ticker": "DIS", "doc_type": "10-K", "section": "Item 3", "reference": null}
+{"id": "NFLX-0", "question": "What are the main risk factors Netflix discloses in its latest 10-K?", "ticker": "NFLX", "doc_type": "10-K", "section": "Item 1A", "reference": null}
+{"id": "NFLX-1", "question": "What does Netflix say its business and main products or segments are?", "ticker": "NFLX", "doc_type": "10-K", "section": "Item 1", "reference": null}
+{"id": "NFLX-2", "question": "What does Netflix's MD&A say drove changes in revenue and operating results?", "ticker": "NFLX", "doc_type": "10-K", "section": "Item 7", "reference": null}
+{"id": "NFLX-3", "question": "What legal proceedings does Netflix describe in its latest 10-K?", "ticker": "NFLX", "doc_type": "10-K", "section": "Item 3", "reference": null}
+{"id": "INTC-0", "question": "What are the main risk factors Intel discloses in its latest 10-K?", "ticker": "INTC", "doc_type": "10-K", "section": "Item 1A", "reference": null}
+{"id": "INTC-1", "question": "What does Intel say its business and main products or segments are?", "ticker": "INTC", "doc_type": "10-K", "section": "Item 1", "reference": null}
+{"id": "INTC-2", "question": "What does Intel's MD&A say drove changes in revenue and operating results?", "ticker": "INTC", "doc_type": "10-K", "section": "Item 7", "reference": null}
+{"id": "INTC-3", "question": "What legal proceedings does Intel describe in its latest 10-K?", "ticker": "INTC", "doc_type": "10-K", "section": "Item 3", "reference": null}
+{"id": "BA-0", "question": "What are the main risk factors Boeing discloses in its latest 10-K?", "ticker": "BA", "doc_type": "10-K", "section": "Item 1A", "reference": null}
+{"id": "BA-1", "question": "What does Boeing say its business and main products or segments are?", "ticker": "BA", "doc_type": "10-K", "section": "Item 1", "reference": null}
+{"id": "BA-2", "question": "What does Boeing's MD&A say drove changes in revenue and operating results?", "ticker": "BA", "doc_type": "10-K", "section": "Item 7", "reference": null}
+{"id": "BA-3", "question": "What legal proceedings does Boeing describe in its latest 10-K?", "ticker": "BA", "doc_type": "10-K", "section": "Item 3", "reference": null}
