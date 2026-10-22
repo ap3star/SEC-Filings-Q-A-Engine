@@ -1,0 +1,32 @@
+[project]
+name = "sec-qa"
+version = "0.1.0"
+description = "RAG Q&A engine over SEC 10-Ks and earnings call transcripts"
+requires-python = ">=3.10"
+dependencies = [
+  "openai>=1.40",
+  "langchain-openai>=0.2",
+  "langchain-text-splitters>=0.3",
+  "elasticsearch>=8.15,<9",
+  "pydantic>=2.7",
+  "beautifulsoup4>=4.12",
+  "lxml>=5.0",
+  "requests>=2.32",
+  "python-dotenv>=1.0",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=8"]
+
+[project.scripts]
+sec-qa = "sec_qa.cli:main"
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools]
+packages = ["sec_qa"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
